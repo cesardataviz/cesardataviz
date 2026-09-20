@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=30&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Cesar+Romero+%F0%9F%91%8B;Data+Analyst+%40+Supermercados+Peruanos;Analitica+Avanzada+%7C+BI+%7C+IA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=26&pause=1200&color=FF6B35&center=true&vCenter=true&width=750&height=40&lines=Hola%2C+soy+Cesar+Romero+%F0%9F%91%8B;AI+Profesional+Research+%7C+BI" alt="Typing SVG" />
 
 </div>
 
@@ -87,17 +87,6 @@ Clon de Linktree construido con Next.js y Supabase, con autenticación por magic
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📊 Estadísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cesardataviz&show_icons=true&hide_title=true&bg_color=0D0D0D&title_color=FF6B35&icon_color=FF6B35&text_color=F5F0E6&border_color=FF6B35" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesardataviz&layout=compact&hide_title=true&bg_color=0D0D0D&title_color=FF6B35&text_color=F5F0E6&border_color=FF6B35" alt="Top Langs" height="165"/>
-
-</div>
 
 <br/>
 
